@@ -1,0 +1,39 @@
+
+*{
+    font-family: 'Work Sans', sans-serif;
+    margin: 0px;
+}
+
+/* header section design */
+
+header{
+    background-image: url('../images/banner/banner3.png');
+    width: auto;
+    height: 808px;
+}
+
+.banner-text{
+    color: #FFF;
+    text-align: right;
+    padding-top: 216px;
+    padding-bottom: 360px;
+    padding-right: 230px;
+    padding-left: 845px;  
+}
+.wellcome-text{
+    margin-top: 24px;
+    margin-bottom: 30px;
+    margin-left: 250px;
+}
+
+/* btn-primary */
+.btn-primary{
+    padding: 2px 22px;
+    width: 160px;
+    height: 64px;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 6px;
+    color: #005FAC;
+}
+
