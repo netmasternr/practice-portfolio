@@ -20,6 +20,7 @@ header{
     padding-right: 230px;
     padding-left: 845px;  
 }
+
 .wellcome-text{
     margin-top: 24px;
     margin-bottom: 30px;
@@ -36,4 +37,43 @@ header{
     border-radius: 6px;
     color: #005FAC;
 }
+
+/* main-start */
+
+.container-1{
+    margin-top: 230px;
+    margin-left: 260px;
+    margin-right: 260px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.person-image{
+    height: 898px;
+    padding-right: 130px;
+}
+
+.text-1{
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 22px;
+    margin-right: 150px;
+}
+
+.description-1{
+    color: #444343;
+    font-size: 16px;
+    font-weight: 800;
+    margin-bottom: 16px;
+}
+
+.list-item{
+    color: #444343;
+    font-size: 16px;
+    font-weight: 800;
+}
+
+
 
